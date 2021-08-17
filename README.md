@@ -79,7 +79,7 @@
 Clone this repository
 
 ```
-git clone
+git clone https://github.com/pushpender-singh-ap/igniteup-extensions.git
 ```
 
 Install dependencies
