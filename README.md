@@ -6,7 +6,7 @@
   Ignite Novel
 </h1>
 <p align="center">
-  Ignite Novel is a Tachiyomi-like, free and open source light novel reader for Android.
+  Ignite Novel is a Tachiyomi-like, free, and open-source light novel reader for Android.
 </p>
 
 <p align="center">
